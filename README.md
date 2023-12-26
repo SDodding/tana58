@@ -2,6 +2,8 @@
 
 Handwired 58 key wireless split keyboard powered by ZMK
 
+![alt text](https://github.com/SDodding/tana58/blob/main/images/tana58_3.jpg?raw=true)
+
 Interesting files:
 
 - What passes for a wiring diagram in /images
