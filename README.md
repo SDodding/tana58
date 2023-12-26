@@ -9,3 +9,5 @@ Interesting files:
 - Freecad files if you wish to modify this for yourself, or for use with other components
 
 I am intending to add a bit more info here to document things a bit better (and add some part numbers)
+
+There is an associated ZMK repository containing the build/shield configuration for this board that i'll make public fairly soon.
