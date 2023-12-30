@@ -12,4 +12,4 @@ Interesting files:
 
 I am intending to add a bit more info here to document things a bit better (and add some part numbers)
 
-There is an associated ZMK repository containing the build/shield configuration for this board that i'll make public fairly soon.
+Firmware for this board can be found [here](https://github.com/SDodding/tana58_zmk/tree/main)
