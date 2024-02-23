@@ -26,6 +26,6 @@ BOM:
 9. 22x M2 threaded heat set inserts
 10. 22x M2x8 screws
 11. 2x 3.7v Lithium Polymer batteries with JST connector. I used some small 150mah ones from [Kiwi Electronics](https://www.kiwi-electronics.com/en/lithium-polymer-li-po-battery-3-7v-150mah-3459). I would say that there is a lot of room in the keyboard though due to the tenting, so you could easily fit 1200mah batteries (or larger) inside.
-12. 2x Female JST-PH2.0 connectors. Do ensure the wire colours match the battery connectors before using any you buy. I bought some off Amazon and the connectors originally connected red to black and black to red...
+12. 2x Male JST-PH2.0 connectors. Do ensure the wire colours match the battery connectors before using any you buy. I bought some off Amazon and the connectors originally connected red to black and black to red...
 
 Of course ALWAYS check the battery with a multimeter before connecting it to ensure the polarity is as expected.
