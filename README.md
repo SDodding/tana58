@@ -22,8 +22,7 @@ BOM:
 6. 58x THT signal diodes. I used [these](https://splitkb.com/products/tht-diodes) from splitkb.com (1N4148 Signal Diode)
 7. 2x Reset switches. I used [these](https://splitkb.com/products/reset-buttons) from splitkb.com (SKHLLCA010). These were glued in to the support bracket in the model
 8. 2x power switches.  
-
-  I repurposed some three position ON-OFF-ON (SS 25539 N) switches for this from [Reichelt](https://www.reichelt.nl/nl/en/slide-switch-angled-pitch-5-08-1-x-on-off-on-ss-25539-n-p105722.html). The 3d model is set such that the second on position is physically blocked so that it acts only as a two position switch. You could follow this part, or update the bracket it's glued into in the freecad model for whatever you'd rather use.
+ I repurposed some three position ON-OFF-ON (SS 25539 N) switches for this from [Reichelt](https://www.reichelt.nl/nl/en/slide-switch-angled-pitch-5-08-1-x-on-off-on-ss-25539-n-p105722.html). The 3d model is set such that the second on position is physically blocked so that it acts only as a two position switch. You could follow this part, or update the bracket it's glued into in the freecad model for whatever you'd rather use.
 9. 22x M2 threaded heat set inserts
 10. 22x M2x8 screws
 11. 2x 3.7v Lithium Polymer batteries with JST connector. I used some small 150mah ones from [Kiwi Electronics](https://www.kiwi-electronics.com/en/lithium-polymer-li-po-battery-3-7v-150mah-3459). I would say that there is a lot of room in the keyboard though due to the tenting, so you could easily fit 1200mah batteries (or larger) inside.
